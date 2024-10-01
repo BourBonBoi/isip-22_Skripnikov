@@ -1,7 +1,8 @@
 def main():
-    name = input("Введите имя: ")
-    print("Hello world from", name)
+    name = input("Enter your name please: ")
+    print("Hello world i am", name)
 
 if __name__ == "__main__":
     main()
 
+#comm
